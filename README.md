@@ -1,3 +1,4 @@
+![](media/fullstack.jpg)
 <h3> < Hello world, I'm <a href="https://   " target="_blank"> Tanvir Hossain Uthsho</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
 I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development.
 <br><br><br><br><br><br><br><br><br>
@@ -28,18 +29,22 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 
 <br>
 <br>
-
 <br>
+<h2 align="center">
+  My Github Stats
+</h2>
+ 
+<br>
+
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&theme=radical">
- <!--
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&hide=css,java,html&theme=radical">
--->
 </p>
+
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirUthsho&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirUthsho&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p> 
+
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=TanvirUthsho&theme=redical">
-</p>  
+</p> 
