@@ -34,7 +34,7 @@ const Annu = {
 }
 ```
 
-<br><br><br>
+<br>
 <p align="center">
  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=TanvirUthsho&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/TanvirUthsho/TanvirUthsho?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
