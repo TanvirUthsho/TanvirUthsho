@@ -2,11 +2,15 @@
 I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development.
 
 <br>
-   
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Rayman-Sodhi)
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=TanvirUthsho&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/TanvirUthsho/TanvirUthsho?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-</h1>
+
+<p align="center">
+ <img alt="Visitors" src="https://komarev.com/ghpvc/?username=TanvirUthsho&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+ <img alt="Last Commit" src="https://img.shields.io/github/last-commit/TanvirUthsho/TanvirUthsho?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
+ <!--<img src="https://badges.pufler.dev/visits/TanvirUthsho/TanvirUthsho"/>-->
+ <img src="https://badges.pufler.dev/years/TanvirUthsho"/>
+ <img src="https://badges.pufler.dev/repos/TanvirUthsho"/>
+ <img src="https://badges.pufler.dev/commits/monthly/TanvirUthsho"/>
+</p>
 
 <br>
 <br>
