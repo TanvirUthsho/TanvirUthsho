@@ -1,8 +1,6 @@
 <h3> < Hello world, I'm <a href="https://   " target="_blank"> Tanvir Hossain Uthsho</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
 I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development.
-
-<br>
-
+<br><br><br><br><br><br><br><br>
 <p align="center">
  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=TanvirUthsho&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/TanvirUthsho/TanvirUthsho?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
