@@ -1,12 +1,11 @@
 <h3> < Hello world, I'm <a href="https://   " target="_blank"> Tanvir Hossain Uthsho</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
 I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development 
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 <br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- ===================
 ========================== -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/uthsho-hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/uthsho-hossain" height="30" width="40" /></a>
