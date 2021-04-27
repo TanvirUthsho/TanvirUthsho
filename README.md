@@ -50,12 +50,9 @@
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 
 
-[![Tanvir's github stats](https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Tanvir's github stats](https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)</p>
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)</p>
 
 
 <!--<p align="center">
