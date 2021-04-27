@@ -27,10 +27,17 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 <br>
 <br>
 
-<h2 align='center'><i>Github Stats & Languages Used</i></h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TanvirUthsho&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
-<a href="https://github.com/TanvirUthsho/TanvirUthsho">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=vue-dark&hide_border=true" />
-</a>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&theme=radical">
+ <!--
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&hide=css,java,html&theme=radical">
+-->
 </p>
+<p align = "center">
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirUthsho&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=TanvirUthsho&theme=redical">
+</p>  
