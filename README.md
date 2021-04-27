@@ -59,34 +59,16 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
                 href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
                     alt="javascript" width="40" height="40" /> </a> 
- <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40"
-                height="40" />
- <a href="https://www.cprogramming.com/"
-                target="_blank"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                    width="40" height="40" /> </a>
-                  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="reactjs"  width="40"
-                height="50"/>  <a href="https://www.python.org" target="_blank"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                    alt="python" width="40" height="40" /> </a>
-
-<a href="https://getbootstrap.com" target="_blank"> <img
-                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                    alt="bootstrap" width="40" height="40" /> </a> 
-                     <a href="https://www.mysql.com/" target="_blank">
-                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-                    alt="mysql" width="50" height="50" /> </a>
-                  <a href="https://cloud.google.com" target="_blank"> <img
-                    src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40"
-                    height="40" /> 
-                </a> <a href="https://git-scm.com/" target="_blank"> <img
-                    src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-            </a> 
-             <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"
-                alt="laravel" width="60" height="60" />
-             <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg"
-                alt="wordpress" width="40" height="40" />
-                </p>
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="reactjs" width="40" height="40" />
+ <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="reactjs" width="40" height="40" />
+ <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /> </a>
+<img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="reactjs"  width="40" height="50"/>  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a> 
+<br>
+<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /> </a><a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" /> </a> 
+<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /></a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a> 
+<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="60" height="60" /> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40" />
+</p>
 
 <br>
 <br>
