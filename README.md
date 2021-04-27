@@ -21,6 +21,9 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 <a href="https://www.linkedin.com/in/uthsho-hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/uthsho-hossain" height="30" width="40" /></a>
 <a href="https://fb.com/people/Tanvir-Hossain/100045095227196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/people/Tanvir-Hossain/100045095227196/" height="30" width="40" /></a>
 <a href="https://instagram.com/tanvir.h.u/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tanvir.h.u/" height="30" width="40" /></a>
+<a href="https://mailto:ojinnnakapascal@gmail.com">
+<img align="left" alt="Pascal's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools 🚀:</h3>
