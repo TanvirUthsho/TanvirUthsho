@@ -47,7 +47,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&color=4479A1)
 
 
-----
+<h2 align='center'><i>Github Stats & Languages Used</i></h2>
 
 
 [![Tanvir's github stats](https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
@@ -58,20 +58,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align="center">
+<!--<p align="center">
    <a href="https://www.buymeacoffee.com/AbhiVikrant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-</p>
- <!-- ===================== -->
-<h2 align='center'><i>Github Stats & Languages Used</i></h2>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TanvirUthsho&count_private=true&show_icons=true&theme=vue-dark&hide_border=true" height="205">
-<a href="https://github.com/TanvirUthsho/TanvirUthsho">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&hide=css,html&title_color=ffffff&text_color=ffffff&icon_color=2bbc8a&theme=vue-dark&hide_border=true" />
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/TanvirUthsho/TanvirUthsho">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=TanvirUthsho&layout=compact" />
-</a>
-</p>
+</p>-->
