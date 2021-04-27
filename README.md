@@ -38,10 +38,12 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 <h2 align='center'><i>Github Stats & Languages Used</i></h2>
 
 
-[![Tanvir's github stats](https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://github.com/Jaynil1611?tab=repositories"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&count_private=true&include_all_commits=true&line_height=21&cache_seconds=1800&theme=algolia" alt="Uthsho's github stats" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://wakatime.com/@jaynil"><img align="center" width="56%" src="https://github-readme-stats.vercel.app/api/wakatime?username=jaynil&layout=compact&theme=algolia&custom_title=Jaynil's Wakatime Stats" 
+alt="Jaynil's Wakatime Stats"/></a>
 
 <!--<p align="center">
    <a href="https://www.buymeacoffee.com/AbhiVikrant" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-black.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
