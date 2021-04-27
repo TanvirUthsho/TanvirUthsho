@@ -1,7 +1,40 @@
 ![](media/fullstack.jpg)
-<h3> < Hello world, I'm <a href="https://   " target="_blank"> Tanvir Hossain Uthsho</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
-I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development.
-<br><br><br><br><br><br><br><br><br>
+<h3> < Hello world, I'm <a href="https://TanvirUthsho/" target="_blank">Tanvir Hossain Uthsho</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
+I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/uthsho-hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/uthsho-hossain" height="30" width="40" /></a>
+<a href="https://fb.com/people/Tanvir-Hossain/100045095227196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/people/Tanvir-Hossain/100045095227196/" height="30" width="40" /></a>
+<a href="https://instagram.com/tanvir.h.u/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tanvir.h.u/" height="30" width="40" /></a>
+<a href="https://mailto:ojinnnakapascal@gmail.com">
+<img align="left" alt="Pascal's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+</p>
+<br/>
+
+##### A little more about me...  
+
+```javascript
+const Annu = {
+  Pronouns: "she" | "her",
+  Description : [Passionate, Optimistic, 
+                Bibliophile, Tech enthusiast  
+                and a lot more ],
+  Education : 
+           [ 
+           { Collge: Govt Model engineering college, 
+             Year :2018-22  }, 
+           { School : Campion School,  
+              Year : 2016-18 } 
+           ],
+ Experience : ['Intern @ Twitter', 
+            'Backend developer at StorFront ', 
+            'React developer at TGH Technologies ' ]
+}
+```
+
+<br><br><br>
 <p align="center">
  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=TanvirUthsho&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/TanvirUthsho/TanvirUthsho?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
@@ -16,15 +49,6 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 
 <!-- ===================
 ========================== -->
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/uthsho-hossain" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/uthsho-hossain" height="30" width="40" /></a>
-<a href="https://fb.com/people/Tanvir-Hossain/100045095227196/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/people/Tanvir-Hossain/100045095227196/" height="30" width="40" /></a>
-<a href="https://instagram.com/tanvir.h.u/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tanvir.h.u/" height="30" width="40" /></a>
-<a href="https://mailto:ojinnnakapascal@gmail.com">
-<img align="left" alt="Pascal's Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-</p>
 
 <h3 align="left">Languages and Tools 🚀:</h3>
 <p align="left">
