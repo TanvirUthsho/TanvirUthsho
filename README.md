@@ -43,10 +43,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
                 target="_blank"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
                     width="40" height="40" /> </a>
-                  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="reactjs" width="40"
-                height="40" />  
-
-<a href="https://www.python.org" target="_blank"> <img
+                  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="reactjs"  width="40"
+                height="50"/>  <a href="https://www.python.org" target="_blank"> <img
                     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                     alt="python" width="40" height="40" /> </a>
 
