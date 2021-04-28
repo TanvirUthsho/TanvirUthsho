@@ -5,9 +5,9 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 <h2 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/uthsho-hossain" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://fb.com/people/Tanvir-Hossain/100045095227196/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/68/000000/facebook-new.png"/></a>
+<a href="https://fb.com/people/Tanvir-Hossain/100045095227196/" target="blank"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href="https://instagram.com/tanvir.h.u/" target="blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href="https://mailto:tanvir.h.uthsho@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/68/000000/gmail-login.png"/></a>
+<a href="https://mailto:tanvir.h.uthsho@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail-login.png"/></a>
 </p>
 <br/>
 
