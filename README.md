@@ -14,7 +14,7 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 ##### A little more about me...  
 
 ```javascript
-const Annu = {
+const Uthsho = {
   Pronouns: "he" | "his",
   Description : [Passionate, Optimistic, 
                 Bibliophile, Tech enthusiast  
