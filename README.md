@@ -1,12 +1,12 @@
 ![](media/fullstack.jpg)
 <h3> < Hello world, I'm <a href="https://TanvirUthsho/" target="_blank">Tanvir Hossain Uthsho</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
-I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development 
+I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"><h3 align="left">Connect with me:</h3>
+<h2 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">Connect with me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/uthsho-hossain" target="blank"><img align="center"src="https://img.icons8.com/cute-clipart/68/000000/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/uthsho-hossain" target="blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://fb.com/people/Tanvir-Hossain/100045095227196/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/68/000000/facebook-new.png"/></a>
-<a href="https://instagram.com/tanvir.h.u/" target="blank"> <img align="center" src="https://img.icons8.com/cute-clipart/68/000000/instagram-new.png"/></a>
+<a href="https://instagram.com/tanvir.h.u/" target="blank"> <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href="https://mailto:tanvir.h.uthsho@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/68/000000/gmail-login.png"/></a>
 </p>
 <br/>
@@ -15,16 +15,16 @@ I am a pre-final year CS student with a great passion for programming. I am tryi
 
 ```javascript
 const Annu = {
-  Pronouns: "she" | "her",
+  Pronouns: "he" | "his",
   Description : [Passionate, Optimistic, 
                 Bibliophile, Tech enthusiast  
                 and a lot more ],
   Education : 
            [ 
-           { Collge: Govt Model engineering college, 
-             Year :2018-22  }, 
-           { School : Campion School,  
-              Year : 2016-18 } 
+           { University: North South University, 
+             Year :2020-24  }, 
+           { College : Campion College,  
+              Year : 2018-19 } 
            ],
  Experience : ['Intern @ Twitter', 
             'Backend developer at StorFront ', 
