@@ -36,7 +36,7 @@ const Uthsho = {
 <br>
 <!--------------------------------------Badges Start------------------------------>
 <p align="center">
- <img alt="Visitors" src="https://komarev.com/ghpvc/?username=TanvirUthsho&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviruthsho&label=Profile%20views&color=02f28a&style=flat" alt="tanviruthsho" /> </p>
  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/TanvirUthsho/TanvirUthsho?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
  <img src="https://badges.pufler.dev/visits/TanvirUthsho/TanvirUthsho"/>
  <img src="https://badges.pufler.dev/years/TanvirUthsho"/>
