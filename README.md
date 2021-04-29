@@ -79,7 +79,7 @@ const Uthsho = {
 <br>
 <br>
 <h2 align="center">
-  My Github Stats
+  <b>My Github Stats</b>
 </h2>
  
 <br>
