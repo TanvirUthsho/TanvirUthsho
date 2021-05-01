@@ -1,6 +1,6 @@
 ![](media/fullstack.jpg)
 <h3> < Hello world, I'm <a href="https://TanvirUthsho/" target="_blank">Tanvir Hossain Uthsho</a> /> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img  align='right' src="https://user-images.githubusercontent.com/43414928/113603231-5101d200-9661-11eb-9dcf-93d0401a7287.png" width="300px"> </h3>
-I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development. Email ID:<b> tanvir.h.uthsho@gmail.com </b>
+I am a pre-final year CS student with a great passion for programming. I am trying to create magic with 0's and 1's. The green dots on my GitHub profile show my developer journey. I have experimented with AI, NLP, Blockchain etc but found my niche domain in full stack development. Email ID: <b> tanvir.h.uthsho@gmail.com </b>
 <!--===============================================Connection Start==============================================================-->
 <h2 align="left"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">Connect with me:</h2>
 <p align="left">
@@ -52,9 +52,9 @@ const Uthsho = {
 
 <h2 align="left">🚀 Languages and Tools:</h2>
 <p align="left">
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="reactjs" width="40" height="40" />
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"  height="40" /> </a>
