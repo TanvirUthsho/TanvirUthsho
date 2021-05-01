@@ -78,12 +78,13 @@ const Uthsho = {
 <br>
 <br>
 <br>
-<h2 align="center">
-  <b>My Github Stats</b>
-</h2>
- 
+<details>
+  <summary>:zap:
+     <h2 align="center">
+        <b>My Github Stats</b>
+     </h2>
+  </summary>
 <br>
-
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=TanvirUthsho&show_icons=true&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirUthsho&theme=radical">
@@ -96,3 +97,4 @@ const Uthsho = {
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=TanvirUthsho&theme=redical">
 </p> 
+</details>
