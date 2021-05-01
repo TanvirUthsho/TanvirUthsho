@@ -71,7 +71,7 @@ const Uthsho = {
 <br><br>
 <a href="https://www.photoshop.com/" target="_blank"><img src="media/photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
 <a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img class="logo" alt="" src="https://www.markup.io/wp-content/uploads/2020/08/adobe-xd-logo.svg" style="padding: 5px;"  width="40" height="40"> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 
