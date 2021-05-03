@@ -82,9 +82,9 @@ const Uthsho = {
 <br>
 <details>
   <summary>:zap:
-     <h2 align="center">
+     <h1 align="center">
         <b>My Github Stats</b>
-     </h2>
+     </h1>
   </summary>
 <br>
 <p align = "center">
