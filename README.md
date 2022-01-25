@@ -56,10 +56,10 @@ const Uthsho = {
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
  <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
- <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="reactjs" width="40" height="40" />
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"  height="40" /> </a>
- <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/53/000000/java-coffee-cup-logo.png"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+<!--  <img src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" alt="reactjs" width="40" height="40" /> -->
+<!--  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"  height="40" /> </a>
+ <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/53/000000/java-coffee-cup-logo.png"/> </a> -->
+<!--  <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> -->
 <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <br><br>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
