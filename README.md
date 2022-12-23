@@ -50,29 +50,110 @@ const Uthsho = {
 <!-- =============================================
 ================================================== -->
 
-<h2 align="left">🚀 Languages and Tools:</h2>
-<p align="left">
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
- <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
- <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"/> </a> 
- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-<br><br>
-<a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/55/000000/mysql-logo.png"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>  
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<img class="logo" alt="" src="https://www.markup.io/wp-content/uploads/2020/08/wordpress-logo.svg"  width="40" height="40"/>
-<img class="logo" alt="" src="https://www.markup.io/wp-content/uploads/2020/08/shopify-logo.svg" width="40" height="40"/>
-<br><br>
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"/> </a> 
-<br><br>
-<a href="https://www.photoshop.com/" target="_blank"><img src="media/photoshop.svg" alt="photoshop" width="40" height="40"/> </a>
-<a href="https://www.sketch.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img class="logo" alt="" src="https://www.markup.io/wp-content/uploads/2020/08/adobe-xd-logo.svg" width="40" height="40"> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-</p>
+# Experience
+
+<table>
+  <tr>
+    <th>Programing Languages</th>
+    <th>Duration</th>
+    <th>Projects Completed</th>
+  </tr>
+
+  <tr>
+    <td>
+<img src="https://www.vectorlogo.zone/logos/python/python-official.svg"style="width:71%;">
+</td>
+    <td>.../2023</td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>
+    <img src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"  width="25%" height="25%"style="border-radius:7px;" >
+    </td>
+    <td >1/1/2023</td>
+    <td style="text-align:center;">1</td>
+  </tr>
+</table>
+<br>
+<!-- ========== 2nd ============ -->
+
+<table>
+  <tr>
+    <th>Frontend Development</th>
+    <th>Backend Development</th>
+
+  </tr>
+
+  <tr>
+    <td>
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+</td>
+    <td>
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+</td>
+  </tr>
+</table>
+<br>
+
+<!-- ======== 3rd ======= -->
+<table>
+  <tr>
+    <th>Database</th>
+    <th>Framework</th>
+    <th><b>MERN Projects Completed</b></th>
+  </tr>
+
+  <tr>
+    <td>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+</td>
+    <td><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></td>
+    <td>...</td>
+  </tr>
+  <tr>
+    <td>
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+</td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+<br>
+<!-- ======== 4th ======= -->
+<table>
+  <tr>
+    <th>Devops</th>
+    <th>BaaS</th>
+    <th>Software</th>
+  </tr>
+
+  <tr>
+    <td>
+<img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+</td>
+    <td>
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"style="width:25%;">
+    </td>
+  </tr>
+  <tr>
+  <td>
+  <td>
+    <td>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"style="width:50%;">
+    </td>
+  </tr>
+</table>
+
+<style>
+th{
+  text-align:center;
+}
+td{
+  text-align:center;
+}
+  </style>
+
 
 <br>
 <br>
